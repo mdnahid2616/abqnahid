@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahid Hasan</h1>
 <h3 align="center">frontend Developer</h3>
 
-- 📫 How to reach me **nahid3code@gmail.com**
+- 📫 How to reach me **abq.nahid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
